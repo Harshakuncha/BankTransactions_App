@@ -1,4 +1,4 @@
-The Banking Transactions App allows users to perform the following actions:
+The Banking Transactions App:
 
 Account Management: Users can create new accounts, view account details, and manage account settings.
 Transactions: Users can make deposits, withdrawals, and transfer funds between accounts.
@@ -6,7 +6,7 @@ Transaction History: Users can view a history of their transactions for each acc
 Balance Inquiry: Users can check their account balances at any time.
 
 Features
-User Authentication: Secure login mechanism to authenticate users and protect their accounts.
+User Authentication: Secure login mechanism to authenticate users and protect their accounts. 
 Multiple Account Support: Users can have multiple accounts (e.g., savings, checking) and manage them independently.
 Transaction Security: Ensure secure transactions with validation checks and encryption.
 Reporting: Generate reports such as transaction history, account statements, and monthly summaries.
